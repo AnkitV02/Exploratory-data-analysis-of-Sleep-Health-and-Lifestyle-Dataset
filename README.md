@@ -1,1 +1,4 @@
-# New
+# Exploratory-data-analysis-of-Sleep-Health-and-Lifestyle-Dataset
+The EDA of a sleep health and lifestyle dataset uncovered key findings. Females are more prone to sleep disorders, particularly sleep apnea, but sleep duration is similar across genders. Those with sleep apnea or insomnia have higher heart rates (73.09 and 70.47 respectively) compared to individuals without sleep disorders (69.02). Females have better sleep quality than males
+ Sales representatives experience poorer sleep quality, and the 40-49 age group has a higher prevalence of insomnia. Physical activity positively correlates with sleep quality.
+ Stress levels are higher in individuals with sleep disorders (5.87 for insomnia, 5.67 for sleep apnea) compared to those without (5.11). These insights enhance our understanding of sleep health and its links to gender, occupation, age, physical activity, and specific sleep disorders.
